@@ -1,0 +1,10 @@
+{
+   "baseUrl": "https://www.google.com",
+   "retries": 2,
+   "watchForFilesChanges": false,
+   "viewportHeight": 1080,
+   "viewportWidth": 1920
+}
+
+
+
